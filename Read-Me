@@ -1,0 +1,23 @@
+Homework Objective:
+
+Create a responsive design website with three linked pages
+utilizing bootstrap and the grid system using rows
+and columns.
+
+In order to fulfill the objective I:
+
+-utilized bootstrap to obtain a navigation bar with several functioning
+links.
+-linked my html pages to the links in the navgiation bar
+-created the About me, Portfolio, and Contact pages using elements in html
+-used the row/column grid system to ensure responsive design
+no matter what size screen the viewer is using.
+-created css styling for each individual page keeping in 
+mind consistencies that need to remain on each page.
+-utilized links in the header to link css styling as
+well as elements from Bootstrap.
+-used a Bootstrap form template for the Contacts page
+and made the proper edits to include Name, Email, and Message
+section and included a Submit button.
+-uploaded, edited and included images for Portfolio page.
+-created an Assets folder to hold a relevant images.
